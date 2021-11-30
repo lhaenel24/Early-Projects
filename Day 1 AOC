@@ -207,4 +207,3 @@ for i in range (198):
      z += 1
      if (word[i] + word[b] + word[v]) == 2020:
        print (word[i] * word[b] * word[v])
-    
